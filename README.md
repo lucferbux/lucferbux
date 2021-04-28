@@ -1,5 +1,5 @@
 
-![Header Image](meta/header.png)
+![Header Image](meta/header.gif)
 
 ### Hello there 👋
 
@@ -22,6 +22,10 @@ I'm a technology fan and I love to explore as many fields as I can, such as Deve
 🎸 Music
 
 📖 Books/Comics
+
+## My stats
+
+[![Lucferbux GitHub stats](https://github-readme-stats.vercel.app/api?username=lucferbux)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My repos
