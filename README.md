@@ -1,5 +1,5 @@
 
-![Header Image](meta/header.png)
+![Header Image](meta/banner.png)
 
 ### Hello there 👋
 
