@@ -13,14 +13,36 @@ I'm a technology fan and I love to explore as many fields as I can, such as Deve
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucferbux/lucferbux/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucferbux/lucferbux/output/github-contribution-grid-snake.svg">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucferbux/lucferbux/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucferbux/lucferbux/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucferbux/lucferbux/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## My stats
 
-![Lucferbux GitHub stats](https://github-readme-stats.vercel.app/api?username=lucferbux)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucferbux)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucferbux&langs_count=3)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucferbux&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lucferbux&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucferbux&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=lucferbux&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=lucferbux"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucferbux" />
+</picture>
 
 ## Technology Stack
 
