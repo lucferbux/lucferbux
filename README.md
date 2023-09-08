@@ -8,7 +8,11 @@ I'm a technology fan and I love to explore as many fields as I can, such as Deve
 
 ## Contributions
 
-![snake gif](https://github.com/lucferbux/lucferbux/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucferbux/lucferbux/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucferbux/lucferbux/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucferbux/lucferbux/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## My stats
 
