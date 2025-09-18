@@ -28,17 +28,6 @@ I'm a technology fan and I love to explore as many fields as I can, such as Deve
   />
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=lucferbux&show_icons=true8" />
 </picture>
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=lucferbux&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=lucferbux"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucferbux" />
-</picture>
 
 ## Technology Stack
 
